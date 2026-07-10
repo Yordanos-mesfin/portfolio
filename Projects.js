@@ -12,6 +12,10 @@ export default function Projects() {
       title: "E-commerce Website",
       desc: "Built using HTML, CSS, JavaScript, and PHP.",
     },
+    {
+      title: "Cleaning.et Mobile App",
+      desc: "Built using React and Laravel.",
+    },
   ];
 
   return (
