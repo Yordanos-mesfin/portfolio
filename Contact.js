@@ -15,7 +15,7 @@ export default function Contact() {
       >
         <h2>Contact Me</h2>
 
-        <p>Email: youremail@gmail.com</p>
+        <p>Email: yordimesfin22@gmail.com</p>
 
         <p>
           GitHub:{" "}
